@@ -19,6 +19,10 @@ document.write("<br>");
 
 let divide = num1/num2;
 document.write( " division of two numbers is = ", num1/num2);
+document.write("<br>");
+
+let reminder = num1%num2;
+document.write( " Reminder of two numbers is = ", num1%num2);
 
 
 
